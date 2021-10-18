@@ -9,13 +9,14 @@ In the following videos, you can see some examples of holographic videos compens
 The results reported in the following sections were obtained from running the algorithm on a computer supported by an Intel® Xeon® CPU E3-1270 v5 @ 3.60 GHz with 64 GB of RAM.
 
 ### USAF Test
-**agregar los videos**
-
-Para poner videos embebidos 
-https://www.youtube.com/watch?v=hjMx8EuyZJ8 
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUeVBAqYXJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>  
 
 ### Fresh red blood cells
-**agregar los videos**
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ru1tB6Ebh2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>  
 
 ### Spoiled vinaigrette
 <p align="center">
@@ -27,14 +28,16 @@ https://www.youtube.com/watch?v=hjMx8EuyZJ8
 ### Code
 
 Click here for download the DRF code for MATLAB. 
-* [Download MATLAB script](https://drive.google.com/file/d/1Z_uzQeUmP79HdQMYWdQggInOGumdvZgb/view?usp=sharing)
-**agregar los videos**
+* [Download MATLAB script](https://drive.google.com/drive/folders/1su6cW7JX1s3KXNQFdRl8nBjlIo2jobZ-?usp=sharing)
+
 
 ### Sample holograms
 
 Here are the hologramas from where the videos shown prevously were exctracted. You can download the folders with the whole set of holograms and try them yourselfel.
 
-**agregar los videos**
+- [USAF Test](https://drive.google.com/drive/folders/1bAfjlpGmKy6tdngCz6NAa601YNRNC2S5?usp=sharing)
+- [Red blood cells](https://drive.google.com/drive/folders/1McD-yl8pHNrWxM6Vdd6p0wdMfufiy3BE?usp=sharing)
+- [Spoiled vinaigrette](https://drive.google.com/drive/folders/1j4XBxeqpnIbFAP7NSf7gWLpAC7lVeAIX?usp=sharing)
 
 
 ### Funding
