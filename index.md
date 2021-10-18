@@ -33,7 +33,7 @@ Click here for download the DRF code for MATLAB.
 
 ### Sample holograms
 
-Here are the hologramas from where the videos shown prevously were exctracted. You can download the folders with the whole set of holograms and try them yourselfel.
+Here are the hologramas from where the videos shown prevously were exctracted. You can download the folders with the whole set of holograms and try them yourself.
 
 - [USAF Test](https://drive.google.com/drive/folders/1bAfjlpGmKy6tdngCz6NAa601YNRNC2S5?usp=sharing)
 - [Red blood cells](https://drive.google.com/drive/folders/1McD-yl8pHNrWxM6Vdd6p0wdMfufiy3BE?usp=sharing)
