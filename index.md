@@ -1,36 +1,31 @@
 ## Dynamic ROI fast algorithm
 
-This page is under construction right now. 
-Come back later.
+The Dynamic ROI fast (DRF) algorithm is a mehtod for compensating phase from digital video holograms captured by digital holographyc microscopy at video rates. 
+This algorithm is robust, it does not require knowing specific parameters of the system, other than the size of the pixels of the camera and the wavelength of the light source, and the compensation process **runs at video rates (15 - 17 fps)**, which is comparable to the capture rates of digital cameras used to record holograms. 
 
-### Markdown
+## Examples
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In the following videos, you can see some examples of holographic videos compensated with thw DRF algorithm
 
-```markdown
-Syntax highlighted code block
+### USAF Test
+**agregar los videos**
 
-# Header 1
-## Header 2
-### Header 3
+### Fresh red blood cells
+**agregar los videos**
 
-- Bulleted
-- List
+### Spoiled vinaigrette
+**agregar los videos**
 
-1. Numbered
-2. List
+## Code and sample holograms
 
-**Bold** and _Italic_ and `Code` text
+### Code
 
-[Link](url) and ![Image](src)
-```
+Click here for download the DRF code for MATLAB. 
+**agregar los videos**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Sample holograms
 
-### Jekyll Themes
+Here are the hologramas from where the videos shown prevously were exctracted. You can download the folders with the whole set of holograms and try them yourselfel.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sobandov/DRF/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**agregar los videos**
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
