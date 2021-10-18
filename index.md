@@ -5,7 +5,8 @@ This algorithm is robust, it does not require knowing specific parameters of the
 
 ## Examples
 
-In the following videos, you can see some examples of holographic videos compensated with thw DRF algorithm
+In the following videos, you can see some examples of holographic videos compensated with thw DRF algorithm. 
+The results reported in the following sections were obtained from running the algorithm on a computer supported by an Intel® Xeon® CPU E3-1270 v5 @ 3.60 GHz with 64 GB of RAM.
 
 ### USAF Test
 **agregar los videos**
@@ -32,4 +33,23 @@ Click here for download the DRF code for MATLAB.
 Here are the hologramas from where the videos shown prevously were exctracted. You can download the folders with the whole set of holograms and try them yourselfel.
 
 **agregar los videos**
+
+
+### Funding
+This project has received funding from EAFIT University (Medellin, Antioquia, Colombia).
+
+### Citation
+If using this information for publication, please kindly cite the following paper:
+
+S. Obando-Vasquez, A. Doblas, and C. Trujillo, xxxxxxxxxxxx.
+
+### Support or Contact 
+
+| Researcher  | email | Google Scholar | 
+| ------------- | ------------- |-------------| 
+| Sofia Obando-Vasquez | *sobandov@eafit.edu.co* |  | 
+| Ana Doblas| *adoblas@memphis.edu* | [AnaGoogle](https://scholar.google.es/citations?user=PvvDEMYAAAAJ&hl=en) |
+| Carlos Trujillo| *catrujilla@eafit.edu.co* | [CarlosGoogle](https://scholar.google.com/citations?user=BKVrl2gAAAAJ&hl=es) |
+
+This Research is a collaboration between Doblas’ and Trujillos’ research lab.
 
