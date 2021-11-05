@@ -14,8 +14,18 @@ The results reported in the following sections were obtained from running the al
 </p>  
 
 ### Fresh red blood cells
+First test
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ru1tB6Ebh2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>  
+
+Under stable conditions
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wRBf7IUoCO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>  
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mi_fMuvIM-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>  
 
 ### Spoiled vinaigrette
@@ -46,7 +56,9 @@ This project has received funding from EAFIT University (Medellin, Antioquia, Co
 ### Citation
 If using this information for publication, please kindly cite the following paper:
 
-S. Obando-Vasquez, A. Doblas, and C. Trujillo, xxxxxxxxxxxx.
+Obando-Vásquez, S (2021). "Implementación de un algoritmo para recuperación de información de fase de muestras biológicas dinámicas a través de microscopía holográfica digital"[Unpublished Bachelor's thesis] Universidad EAFIT. 
+
+Carlos Trujillo, Raúl Castañeda, Pablo Piedrahita-Quintero, and Jorge Garcia-Sucerquia, "Automatic full compensation of quantitative phase imaging in off-axis digital holographic microscopy," Appl. Opt. 55, 10299-10306 (2016)
 
 ### Support or Contact 
 
