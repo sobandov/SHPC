@@ -38,20 +38,20 @@ Under stable conditions
 ### Code
 
 Click here for download the DRF code for MATLAB. 
-* [Download MATLAB script](https://drive.google.com/drive/folders/1su6cW7JX1s3KXNQFdRl8nBjlIo2jobZ-?usp=sharing)
+* [Download MATLAB script](copy the link here)
 
 
 ### Sample holograms
 
 Here are the hologramas from where the videos shown prevously were exctracted. You can download the folders with the whole set of holograms and try them yourself.
 
-- [USAF Test](https://drive.google.com/drive/folders/1bAfjlpGmKy6tdngCz6NAa601YNRNC2S5?usp=sharing)
-- [Red blood cells](https://drive.google.com/drive/folders/1McD-yl8pHNrWxM6Vdd6p0wdMfufiy3BE?usp=sharing)
-- [Spoiled vinaigrette](https://drive.google.com/drive/folders/1j4XBxeqpnIbFAP7NSf7gWLpAC7lVeAIX?usp=sharing)
+- [USAF Test](copy the link here)
+- [Red blood cells](copy the link here)
+- [Spoiled vinaigrette](copy the link here)
 
 
 ### Funding
-This project has received funding from EAFIT University (Medellin, Antioquia, Colombia).
+
 
 ### Citation
 If using this information for publication, please kindly cite the following paper:
