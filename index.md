@@ -12,6 +12,10 @@ The results reported in the following sections were obtained from running the al
 
 ### Static samples
 
+![SHPC static results](https://raw.githubusercontent.com/sobandov/SHPC/gh-pages/Static_results_SHPC.png "SHPC static results")
+
+
+
 ### Dynamic samples
 
 #### Smearing Red Blood Cells
