@@ -4,7 +4,7 @@ The proposed Semi-heuristic phase compensation (SHPC) method is an alternative a
 
 In the next image, we present the flowchart of the SHPC
 
-
+![Experimental Setup](https://github.com/sobandov/SHPC/blob/c07ec2f51dd6211e36e502676de980bdcbac5446/ROI%20fast%20(3).png "SHPC Flowchart")
 
 
 ## Examples
