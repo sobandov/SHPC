@@ -1,66 +1,53 @@
-## Dynamic ROI fast algorithm
+## Semi-heuristic Phase compensation algorithm
 
-The Dynamic ROI fast (DRF) algorithm is a mehtod for compensating phase from digital video holograms captured by digital holographyc microscopy at video rates. 
-This algorithm is robust, it does not require knowing specific parameters of the system, other than the size of the pixels of the camera and the wavelength of the light source, and the compensation process **runs at video rates (15 - 17 fps)**, which is comparable to the capture rates of digital cameras used to record holograms. 
+The proposed Semi-heuristic phase compensation (SHPC) method is an alternative approach for reconstructing phase maps with reduced processing time compare with the brute-force algorithms while avoiding the local-minimum problem of the heuristic proposals. This algorithm is based on nested searches in which the grid size in every iteration is systematically reduced to optimize the compensation time. This algorithm also have a dynamic version called D-SHPC for compensating holographic videos of dynamic samples. Both algorithms are accurate in phase reconstructions and fast enough to compensate full FOV (1280x960 pixels) holograms at rates of 5 FPS.
+
+In the next image, we present the flowchart of the SHPC
+
+
+
 
 ## Examples
-
-In the following videos, you can see some examples of holographic videos compensated with thw DRF algorithm. 
+In the following section, you can see some examples of holographic videos and static holograms compensated with thw D-SHPC algorithm. 
 The results reported in the following sections were obtained from running the algorithm on a computer supported by an Intel® Xeon® CPU E3-1270 v5 @ 3.60 GHz with 64 GB of RAM.
 
-### USAF Test
+### Static samples
+
+### Dynamic samples
+
+#### Smearing Red Blood Cells
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sUeVBAqYXJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oN_x9qtwUy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>  
 
-### Fresh red blood cells
-First test
+#### Spatially dense Smearing Red Blood Cells
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ru1tB6Ebh2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q1RZo6z9k2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>  
 
-Under stable conditions
+#### Human sperm
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wRBf7IUoCO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/254SkoXl11w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>  
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mi_fMuvIM-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>  
+## Code 
 
-### Spoiled vinaigrette
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JevDJM25aVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>  
+### SHPC
+Click here for download the SHPC code for MATLAB. 
+* [Download MATLAB script](copy the link here)
 
-## Code and sample holograms
-
-### Code
-
-Click here for download the DRF code for MATLAB. 
+### D-SHPC
+Click here for download the D-SHPC code for MATLAB. 
 * [Download MATLAB script](copy the link here)
 
 
-### Sample holograms
-
-Here are the hologramas from where the videos shown prevously were exctracted. You can download the folders with the whole set of holograms and try them yourself.
-
-- [USAF Test](copy the link here)
-- [Red blood cells](copy the link here)
-- [Spoiled vinaigrette](copy the link here)
+## Funding
 
 
-### Funding
-
-
-### Citation
+## Citation
 If using this information for publication, please kindly cite the following paper:
 
-Obando-Vásquez, S (2021). "Implementación de un algoritmo para recuperación de información de fase de muestras biológicas dinámicas a través de microscopía holográfica digital"[Unpublished Bachelor's thesis] Universidad EAFIT. 
-
-Carlos Trujillo, Raúl Castañeda, Pablo Piedrahita-Quintero, and Jorge Garcia-Sucerquia, "Automatic full compensation of quantitative phase imaging in off-axis digital holographic microscopy," Appl. Opt. 55, 10299-10306 (2016)
-
-### Support or Contact 
+## Support or Contact 
 
 | Researcher  | email | Google Scholar | 
 | ------------- | ------------- |-------------| 
