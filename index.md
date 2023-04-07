@@ -4,7 +4,7 @@ The proposed Semi-heuristic phase compensation (SHPC) method is an alternative a
 
 In the next image, we present the flowchart of the SHPC
 
-![SHPC Flowchart](https://github.com/sobandov/SHPC/blob/d70946d2ab60a6355d15909f18a413056a50c51e/SHPC_flowchart.png "SHPC Flowchart")
+![SHPC Flowchart](https://raw.githubusercontent.com/sobandov/SHPC/gh-pages/SHPC_flowchart.png "SHPC Flowchart")
 
 ## Examples
 In the following section, you can see some examples of holographic videos and static holograms compensated with thw D-SHPC algorithm. 
