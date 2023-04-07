@@ -1,4 +1,4 @@
-## Semi-heuristic Phase compensation algorithm
+## Semi-heuristic phase compensation algorithm
 
 The proposed Semi-heuristic phase compensation (SHPC) method is an alternative approach for reconstructing phase maps with reduced processing time compare with the brute-force algorithms while avoiding the local-minimum problem of the heuristic proposals. This algorithm is based on nested searches in which the grid size in every iteration is systematically reduced to optimize the compensation time. This algorithm also have a dynamic version called D-SHPC for compensating holographic videos of dynamic samples. Both algorithms are accurate in phase reconstructions and fast enough to compensate full FOV (1280x960 pixels) holograms at rates of 5 FPS.
 
