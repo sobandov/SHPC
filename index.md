@@ -37,7 +37,7 @@ The results reported in the following sections were obtained from running the al
 
 ### SHPC
 Click here for download the SHPC code for MATLAB. 
-* [Download MATLAB script]([copy the link here](https://drive.google.com/file/d/1lD9ztyp4y3C8RYvCuQzkb_T7Gziqa3NP/view?usp=sharing))
+* [Download MATLAB script](https://drive.google.com/file/d/1lD9ztyp4y3C8RYvCuQzkb_T7Gziqa3NP/view?usp=sharing)
 
 ### D-SHPC
 Click here for download the D-SHPC code for MATLAB. 
