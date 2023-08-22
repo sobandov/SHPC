@@ -45,10 +45,14 @@ Click here for download the D-SHPC code for MATLAB.
 
 
 ## Funding
-
+This work has been funded in part by
+Vicerrectoria de Ciencia, Tecnología e Innovación, Universidad EAFIT, Colombia
+Ministerio de Educación Nacional
+Optica  Women Scholars
 
 ## Citation
 If using this information for publication, please kindly cite the following paper:
+Obando-Vásquez, S., Doblas, A., & Trujillo, C. (2023).Semi-heuristic phase compensation in digital holographic microscopy for stable and accurate quantitative phase imaging of moving objects. Optics and Lasers in Engineering (Under review)
 
 ## Support or Contact 
 
