@@ -46,9 +46,11 @@ Click here for download the D-SHPC code for MATLAB.
 
 ## Funding
 This work has been funded in part by
-Vicerrectoria de Ciencia, Tecnología e Innovación, Universidad EAFIT, Colombia
-Ministerio de Educación Nacional
-Optica  Women Scholars
+<ul>
+  <li>Vicerrectoria de Ciencia, Tecnología e Innovación, Universidad EAFIT, Colombia</li>
+  <li>Ministerio de Educación Nacional</li>
+  <li>Optica  Women Scholars</li>
+</ul>
 
 ## Citation
 If using this information for publication, please kindly cite the following paper:
